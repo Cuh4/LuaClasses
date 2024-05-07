@@ -47,7 +47,7 @@ This library was mainly created for me to use when creating mods for a game that
 Normally, I would use metatables for OOP though.
 
 ## ❔ Intellisense
-**Intellisense is supported!** Check out the examples to see how to use intellisense with this library.
+**Intellisense is supported**, but you will have to define classes with `---@class`. Check out the examples to see an example of this.
 
 Note that you'll need to use [this extension.](https://luals.github.io)
 
