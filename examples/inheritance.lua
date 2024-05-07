@@ -69,7 +69,7 @@ print(smallerNumber.number) -- 0.01
 -------------------------------
 -- // Intellisense
 -------------------------------
----@class Number: Class
+---@class Number: ClassObject
 ---@field number number
 
 ---@class LargeNumber: Number

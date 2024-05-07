@@ -88,14 +88,14 @@ MyBoss:info()
 -------------------------------
 -- // Intellisense
 -------------------------------
----@class Vector3: Class
+---@class Vector3: ClassObject
 ---@field x number
 ---@field y number
 ---@field z number
 ---
 ---@field move fun(self: Vector3, x: number, y: number, z: number)
 
----@class Entity: Class
+---@class Entity: ClassObject
 ---@field type string
 ---@field position Vector3
 ---

@@ -139,11 +139,11 @@ canvas:treeVisual()
 -------------------------------
 -- // Intellisense
 -------------------------------
----@class Vector2: Class
+---@class Vector2: ClassObject
 ---@field x number
 ---@field y number
 
----@class UIWidget: Class
+---@class UIWidget: ClassObject
 ---@field position Vector2
 ---@field size Vector2
 ---@field type string

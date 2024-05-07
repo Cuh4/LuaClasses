@@ -79,14 +79,14 @@ print(MyVector2:isSameType(Vector2.new(10, 2, 0)))
 -------------------------------
 -- // Intellisense
 -------------------------------
----@class Vector3: Class
+---@class Vector3: ClassObject
 ---@field x number
 ---@field y number
 ---@field z number
 ---
 ---@field format fun(self: Vector3): string
 
----@class Vector2: Class
+---@class Vector2: ClassObject
 ---@field x number
 ---@field y number
 ---

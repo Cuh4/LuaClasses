@@ -46,6 +46,6 @@ print(object.value)
 -------------------------------
 -- // Intellisense
 -------------------------------
----@class MyClass: Class
+---@class MyClass: ClassObject
 ---@field value number
 ---@field increment fun(self: MyClass, amount: integer)
