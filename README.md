@@ -20,7 +20,7 @@ end, Person) -- inherit from Person class. only useful if self:inheritParent() i
 -- Create a class that descends from person
 local Female = Class("Female", function(self, name)
     self:initializeParent(name, "Female") -- creates a temporary new person object and gathers all the attributes from it and places it into this class
-end)
+end, Person)
 
 -- Create an object from the Male class
 local John = Male.new("John")
