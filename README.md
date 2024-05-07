@@ -33,6 +33,11 @@ print(Jane.name) -- "Jane"
 
 The library can be found in `/src/class.lua`, and examples in `/examples`.
 
+## ❔ Intellisense
+**Intellisense is supported!** Check out the examples to see how to use intellisense with this library.
+
+Note that you'll need to use [this extension.](https://luals.github.io)
+
 ## ⚙️ Setup
-- Run `git clone https://github.com/cuh4/LuaClasses`
+- Run `git clone https://github.com/Cuh4/LuaClasses`
 - Navigate to `src` and extract `class.lua`
