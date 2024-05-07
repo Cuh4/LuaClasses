@@ -37,7 +37,7 @@ function Class(name, init, parent)
     function class.new(...)
         -- create object
         ---@type ClassObject
-        local object = {}
+        local object = {} ---@diagnostic disable-line
         class:__descend(object, {new = true})
 
         -- call init of object. this init function will provide the needed attributes to the object
