@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- [cuhHub] Tests - Comparison
+-- [Cuh4] Tests - Comparison
 --------------------------------------------------------
 
 --[[
@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/cuhHub/Classes
+        GitHub Repository: https://github.com/Cuh4/Classes
 
     ----------------------------
 ]]

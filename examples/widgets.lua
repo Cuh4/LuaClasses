@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- [cuhHub] Examples - Widgets
+-- [Cuh4] Examples - Widgets
 --------------------------------------------------------
 
 --[[
@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/cuhHub/Classes
+        GitHub Repository: https://github.com/Cuh4/Classes
 
     Description:
         A UI-based example. Note that there isn't actually UI, but the logic is there.

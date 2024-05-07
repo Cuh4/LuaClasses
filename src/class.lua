@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- [cuhHub] Class
+-- [Cuh4] Class
 --------------------------------------------------------
 
 --[[
@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/cuhHub/Classes
+        GitHub Repository: https://github.com/Cuh4/Classes
 
     Description:
         A library that adds easy OOP (with support for inheritance!) for Lua without utilizing metatables.

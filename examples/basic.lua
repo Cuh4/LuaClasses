@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- [cuhHub] Examples - Basic
+-- [Cuh4] Examples - Basic
 --------------------------------------------------------
 
 --[[
@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/cuhHub/Classes
+        GitHub Repository: https://github.com/Cuh4/Classes
 
     Description:
         An example showing how to create a class, and how to create an object from a class.

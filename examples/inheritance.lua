@@ -1,5 +1,5 @@
 --------------------------------------------------------
--- [cuhHub] Examples - Inheritance
+-- [Cuh4] Examples - Inheritance
 --------------------------------------------------------
 
 --[[
@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/cuhHub/Classes
+        GitHub Repository: https://github.com/Cuh4/Classes
 
     Description:
         An example showing creating a class that inherits from another class.
