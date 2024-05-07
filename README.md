@@ -12,12 +12,12 @@ local Person = Class("Person", function(self, name, gender) -- function is calle
     self.gender = gender
 end)
 
--- Create a class that descends from person
+-- Create a class that descends from Person
 local Male = Class("Male", function(self, name)
     self:initializeParent(name, "Male") -- creates a temporary new person object and gathers all the attributes from it and places it into this class
 end, Person) -- inherit from Person class. only useful if self:inheritParent() is called
 
--- Create a class that descends from person
+-- Create a class that descends from Person
 local Female = Class("Female", function(self, name)
     self:initializeParent(name, "Female") -- creates a temporary new person object and gathers all the attributes from it and places it into this class
 end, Person)
