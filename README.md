@@ -33,6 +33,11 @@ print(Jane.name) -- "Jane"
 
 The library can be found in `/src/class.lua`, and examples in `/examples`.
 
+## ❓ Why not use metatables?
+This library was mainly created for me to use when creating mods for a game that uses Lua for mods, but doesn't allow metatables.
+
+Normally, I would use metatables for OOP though.
+
 ## ❔ Intellisense
 **Intellisense is supported!** Check out the examples to see how to use intellisense with this library.
 
