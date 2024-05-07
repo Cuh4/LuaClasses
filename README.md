@@ -1,4 +1,4 @@
-# cuhHub - Classes
+# Cuh4 - Lua Classes
 
 ## 📚 Overview
 A Lua library that allows you to create classes with support for class inheritance without metatables. Tested with Lua 5.4.2.
@@ -33,5 +33,6 @@ print(Jane.name) -- "Jane"
 
 The library can be found in `/src/class.lua`, and examples in `/examples`.
 
-## ✨ Credit
-- [**Cuh4**](https://discord.com/users/1141077132915777616) ([GitHub](https://github.com/Cuh4)) - Main Developer
+## ⚙️ Setup
+- Run `git clone https://github.com/cuh4/LuaClasses`
+- Navigate to `src` and extract `class.lua`
