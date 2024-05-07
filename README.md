@@ -31,7 +31,15 @@ local Jane = Female.new("Jane")
 print(Jane.name) -- "Jane"
 ```
 
-The library can be found in `/src/class.lua`, and examples in `/examples`.
+## 😎 Examples
+Examples can be found in `/examples`.
+
+To run an example, use the following commands (this assumes you've `git clone`'d the repo and you're in the repo directory):
+```bat
+cd lua
+lua.exe ../examples/EXAMPLE_NAME.lua
+```
+Replace `EXAMPLE_NAME.lua` with the file name of the example you want to try out.
 
 ## ❓ Why not use metatables?
 This library was mainly created for me to use when creating mods for a game that uses Lua for mods, but doesn't allow metatables.
