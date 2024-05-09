@@ -104,7 +104,7 @@ return Class
 ---
 ---@field new fun(...: any): ClassObject A function to create an object from this class
 ---@field __descend fun(from: Class|ClassObject, object: ClassObject, exceptions: table<any, boolean>) A helper function that copies important values from the class to an object
-
----@class ClassObject: Class An object created from a class
 ---@field initializeParent fun(self: ClassObject, ...: any) A method that initializes the parent class for this object
 ---@field isSameType fun(self: ClassObject, object: ClassObject): boolean A method that returns whether an object is identical to this one
+
+---@class ClassObject: Class An object created from a class
