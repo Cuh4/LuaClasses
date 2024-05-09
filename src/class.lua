@@ -19,6 +19,7 @@
 -------------------------------
 -- // Main
 -------------------------------
+
 -- Create a class
 ---@param name string
 ---@param init fun(self: table, ...: any)
@@ -97,6 +98,7 @@ return Class
 -------------------------------
 -- // Intellisense
 -------------------------------
+
 ---@class Class A class that can be used for OOP. use the .new() function to create an object from this class
 ---@field __name string The name of this class
 ---@field __init fun(self: ClassObject, ...) A function that initializes objects created from this class
