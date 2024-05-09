@@ -1,7 +1,7 @@
 # Cuh4 - Lua Classes
 
 ## 📚 Overview
-A Lua library that allows you to create classes with support for class inheritance without metatables. Tested with Lua 5.4.2.
+A Lua library that allows you to create classes with support for class inheritance without metatables. Tested with Lua 5.4.2. Should work with Lua 5.3 and above.
 
 ```lua
 local Class = require("class")
