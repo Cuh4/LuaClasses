@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/Cuh4/Classes
+        GitHub Repository: https://github.com/Cuh4/LuaClasses
 
     Description:
         A library that adds easy OOP (with support for inheritance!) for Lua without utilizing metatables.

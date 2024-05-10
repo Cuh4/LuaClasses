@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/Cuh4/Classes
+        GitHub Repository: https://github.com/Cuh4/LuaClasses
 
     Description:
         An example showing creating a class that inherits from another class.

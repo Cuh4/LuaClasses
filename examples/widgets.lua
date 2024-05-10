@@ -7,7 +7,7 @@
 
     CREDIT:
         Author: @cuh6_ (Discord)
-        GitHub Repository: https://github.com/Cuh4/Classes
+        GitHub Repository: https://github.com/Cuh4/LuaClasses
 
     Description:
         A UI-based example. Note that there isn't actually UI, but the logic is there.
