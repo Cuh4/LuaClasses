@@ -84,7 +84,7 @@ function Class(name, init, parent)
     -- Create comparison method
     ---@param object ClassObject
     function class:isSameType(object)
-        return self.__name == object.__name
+        return object.__name and self.__name == object.__name
     end
 
     -- // Finalization
