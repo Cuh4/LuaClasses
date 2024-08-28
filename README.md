@@ -1,3 +1,7 @@
+<warning>
+This project is archived. Check out [this](https://github.com/cuhHub/Noir/blob/main/src/Noir/Class.lua) for a better version of this project.
+</warning>
+
 # Cuh4 - Lua Classes
 
 ## 📚 Overview
